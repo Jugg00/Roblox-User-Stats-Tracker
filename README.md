@@ -15,7 +15,6 @@ It’s a beginner-friendly project for learning API requests, JSON handling, and
 - Fetch real-time Roblox user information  
 - Interactive input: enter a username to get stats  
 - Clean console output for easy reading  
-- Can be extended to save stats to CSV for tracking over time  
 
 ## Installation
 
